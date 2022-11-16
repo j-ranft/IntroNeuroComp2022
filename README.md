@@ -1,2 +1,2 @@
 # IntroNeuroComp2022
-![Title_slide.jpg]
+![Logo](Title_slide.jpeg "Title slide")
